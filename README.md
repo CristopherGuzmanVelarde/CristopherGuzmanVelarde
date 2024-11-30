@@ -1,177 +1,46 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>GitHub Profile</title>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-	<style>
-		* {
-			margin: 0;
-			padding: 0;
-			box-sizing: border-box;
-			font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-		}
+<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
 
-		body {
-			background: #0d1117;
-			color: #c9d1d9;
-			line-height: 1.6;
-		}
+<div>
 
-		.container {
-			max-width: 1200px;
-			margin: 0 auto;
-			padding: 2rem;
-		}
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
-		.profile-header {
-			text-align: center;
-			margin-bottom: 2rem;
-			animation: fadeIn 1s ease-in;
-		}
+<h2> / about me /</h2>
+  
+- ⭐ currently working on **web-development**
+- 💀 mostly working on **private repositories**
+- 👾 a **student** working his way around things
+  
+<h2> / current skills / </h2>
+  
+- <h4> languages </h4>
+  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
+  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
+  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
+  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
+  
+  - <h5> currently learning </h5>
+    <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
+    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
+  
+- <h4> frameworks & libraries </h4>
+  <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
+  <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
+  <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
+  <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
+  
+- <h4> designing tools </h4>
+  <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
+  <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
+  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
+  
+  </br></br>
+  
+<div align="right">
+<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
+  </div>
+  </div>
 
-		.profile-img {
-			width: 200px;
-			height: 200px;
-			border-radius: 50%;
-			border: 4px solid #238636;
-			margin-bottom: 1rem;
-			transition: transform 0.3s ease;
-		}
+------
+Credit: [zillastar](https://github.com/zillastar)
 
-		.profile-img:hover {
-			transform: scale(1.05);
-		}
-
-		.name {
-			font-size: 2.5rem;
-			color: #58a6ff;
-			margin-bottom: 0.5rem;
-		}
-
-		.bio {
-			color: #8b949e;
-			margin-bottom: 1.5rem;
-		}
-
-		.stats {
-			display: flex;
-			justify-content: center;
-			gap: 2rem;
-			margin-bottom: 2rem;
-		}
-
-		.stat-item {
-			background: #161b22;
-			padding: 1rem;
-			border-radius: 10px;
-			text-align: center;
-			transition: transform 0.3s ease;
-		}
-
-		.stat-item:hover {
-			transform: translateY(-5px);
-		}
-
-		.social-links {
-			display: flex;
-			justify-content: center;
-			gap: 1.5rem;
-			margin-bottom: 2rem;
-		}
-
-		.social-icon {
-			font-size: 1.5rem;
-			color: #8b949e;
-			transition: color 0.3s ease;
-		}
-
-		.social-icon:hover {
-			color: #58a6ff;
-		}
-
-		.projects {
-			display: grid;
-			grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-			gap: 1.5rem;
-		}
-
-		.project-card {
-			background: #161b22;
-			border-radius: 10px;
-			padding: 1.5rem;
-			transition: transform 0.3s ease;
-		}
-
-		.project-card:hover {
-			transform: translateY(-5px);
-		}
-
-		@keyframes fadeIn {
-			from {
-				opacity: 0;
-				transform: translateY(20px);
-			}
-			to {
-				opacity: 1;
-				transform: translateY(0);
-			}
-		}
-	</style>
-</head>
-<body>
-	<div class="container">
-		<div class="profile-header">
-			<img src="https://github.com/[your-username].png" alt="Profile Picture" class="profile-img">
-			<h1 class="name">Your Name</h1>
-			<p class="bio">Full Stack Developer | Open Source Enthusiast</p>
-			
-			<div class="stats">
-				<div class="stat-item">
-					<h3>Repositories</h3>
-					<p>20+</p>
-				</div>
-				<div class="stat-item">
-					<h3>Followers</h3>
-					<p>100+</p>
-				</div>
-				<div class="stat-item">
-					<h3>Following</h3>
-					<p>50+</p>
-				</div>
-			</div>
-
-			<div class="social-links">
-				<a href="https://github.com/[your-username]" class="social-icon">
-					<i class="fab fa-github"></i>
-				</a>
-				<a href="https://linkedin.com/in/[your-username]" class="social-icon">
-					<i class="fab fa-linkedin"></i>
-				</a>
-				<a href="https://twitter.com/[your-username]" class="social-icon">
-					<i class="fab fa-twitter"></i>
-				</a>
-				<a href="mailto:your.email@example.com" class="social-icon">
-					<i class="fas fa-envelope"></i>
-				</a>
-			</div>
-		</div>
-
-		<div class="projects">
-			<div class="project-card">
-				<h3>Project 1</h3>
-				<p>Description of your awesome project goes here.</p>
-			</div>
-			<div class="project-card">
-				<h3>Project 2</h3>
-				<p>Description of your awesome project goes here.</p>
-			</div>
-			<div class="project-card">
-				<h3>Project 3</h3>
-				<p>Description of your awesome project goes here.</p>
-			</div>
-		</div>
-	</div>
-</body>
-</html>
+Last Edited on: 12/11/2022
