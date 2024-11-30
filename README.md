@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E96F7&center=true&vCenter=true&width=435&lines=¡Hola!+👋+Soy+Cristopher;Frontend+Developer;Creando+experiencias+web+increíbles" alt="Typing SVG" />
 </div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400" alt="Coding Gif" src="https://i.imgur.com/rB95Ef9.gif"/>
 
 ## 👨‍💻 Sobre mí
 <p align="left">
