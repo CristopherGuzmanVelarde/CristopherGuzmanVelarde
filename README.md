@@ -15,7 +15,7 @@ Frontend Developer en formación, apasionado por crear experiencias web increíb
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 📊 Estadísticas de GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CristopherGuzman&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CristopherGuzmanVelarde&show_icons=true&theme=radical)
 
 ## 🌟 Proyectos Destacados
 - 🚀 [Proyecto 1] - Descripción breve
@@ -23,9 +23,9 @@ Frontend Developer en formación, apasionado por crear experiencias web increíb
 - 📱 [Proyecto 3] - Descripción breve
 
 ## 📫 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-guzman/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristopher.guzman@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CristopherGuzman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-guzmán-velarde-3212971a6/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristopher.guzman@vallegrande.edu.pe)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CristopherGuzmanVelarde)
 
 ---
 ⭐️ From [Cristopher Bryan Guzman Velarde](https://github.com/CristopherGuzmanVelarde)
