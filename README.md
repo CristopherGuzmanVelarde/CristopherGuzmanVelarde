@@ -1,322 +1,145 @@
 <div align="center">
 
-# 👋 Hola, soy Cristopher Guzmán Velarde
+# Cristopher Guzmán Velarde
 
-### 💻 Frontend Developer | Angular | TypeScript | Java | Spring Boot
+### Frontend Developer · Angular · TypeScript · Java · Spring Boot
 
-<p>
-  <a href="https://github.com/CristopherGuzmanVelarde">
-    <img src="https://img.shields.io/badge/GitHub-CristopherGuzmanVelarde-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/cristopher-guzmán-velarde-3212971a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20profesional-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:cristopher.guzman@vallegrande.edu.pe">
-    <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=2E96F7&center=true&vCenter=true&width=600&lines=Aplicaciones+web+modernas+y+escalables;Angular+%C2%B7+TypeScript+%C2%B7+Spring+Boot;Abierto+a+nuevas+oportunidades+laborales" alt="Typing SVG" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=CristopherGuzmanVelarde&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Profile views">
-</p>
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristopher-guzmán-velarde-3212971a6/)
+[![Email](https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristopher.guzman@vallegrande.edu.pe)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositorios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CristopherGuzmanVelarde?tab=repositories)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👋 Sobre mí
 
-Soy **Frontend Developer** enfocado en la construcción de aplicaciones web modernas, escalables y orientadas a una buena experiencia de usuario.
+Soy **Frontend Developer** enfocado en construir aplicaciones web modernas, escalables y con una buena experiencia de usuario. Me interesa transformar requerimientos de negocio en soluciones funcionales y mantenibles, trabajando tanto en la interfaz como en la integración con servicios backend y bases de datos.
 
-Me interesa transformar requerimientos de negocio en soluciones de software funcionales, mantenibles y fáciles de utilizar, trabajando tanto en el desarrollo de interfaces como en la integración con servicios backend y bases de datos.
-
-Actualmente continúo fortaleciendo mis conocimientos en **arquitectura de software, desarrollo frontend, backend, APIs REST, bases de datos, Docker y metodologías de desarrollo ágil**.
-
-```text
-Frontend        → Angular · TypeScript · JavaScript · HTML5 · CSS3
-Backend         → Java · Spring Boot · APIs REST
-Mobile          → Flutter
-Databases       → MySQL · Oracle
-DevOps / Cloud  → Git · Docker · AWS
-Tools           → VS Code · Android Studio · Figma
-```
+Actualmente fortalezco mis conocimientos en **arquitectura de software, APIs REST, Docker y metodologías ágiles**.
 
 ---
 
-## 🚀 ¿Qué puedo aportar?
+## 🛠️ Stack tecnológico
 
-* Desarrollo de **interfaces web responsivas y orientadas al usuario**.
-* Construcción de aplicaciones utilizando **Angular y TypeScript**.
-* Integración de aplicaciones frontend con **APIs REST**.
-* Desarrollo de servicios backend con **Java y Spring Boot**.
-* Diseño y consumo de servicios para aplicaciones distribuidas.
-* Manejo de bases de datos relacionales como **MySQL y Oracle**.
-* Uso de **Git y GitHub/GitLab** para control de versiones.
-* Containerización de aplicaciones utilizando **Docker**.
-* Desarrollo de aplicaciones móviles con **Flutter**.
-* Aplicación de buenas prácticas de desarrollo y organización de código.
-* Trabajo colaborativo, aprendizaje continuo y resolución de problemas.
+| Área | Tecnologías |
+|---|---|
+| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) |
+| **Bases de datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| **DevOps & Cloud** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
+| **Diseño & Herramientas** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
 
 ---
 
-# 🛠️ Tech Stack
-
-## Frontend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
-
-</div>
-
-<p align="center">
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-
-</p>
-
-## Backend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,python" />
-
-</div>
-
-<p align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-
-</p>
-
-## Mobile
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
-
-</div>
-
-<p align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square\&logo=androidstudio\&logoColor=white)
-
-</p>
-
-## Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,oracle" />
-
-</div>
-
-<p align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square\&logo=oracle\&logoColor=white)
-
-</p>
-
-## DevOps, Cloud & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,vscode,figma" />
-
-</div>
-
-<p align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square\&logo=gitlab\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
-
-</p>
-
----
-
-# 🏗️ Áreas de especialización
-
-| Área                      | Tecnologías                                  |
-| ------------------------- | -------------------------------------------- |
-| **Frontend Development**  | Angular, TypeScript, JavaScript, HTML5, CSS3 |
-| **Backend Development**   | Java, Spring Boot, REST APIs                 |
-| **Mobile Development**    | Flutter, Dart                                |
-| **Databases**             | MySQL, Oracle, SQL                           |
-| **Cloud & DevOps**        | AWS, Docker                                  |
-| **Version Control**       | Git, GitHub, GitLab                          |
-| **UI / UX**               | Figma, diseño responsive                     |
-| **Software Architecture** | MVC, DAO, APIs REST, arquitectura por capas  |
-
----
-
-# 📌 Proyectos destacados
-
-<div align="center">
-
-<a href="https://github.com/CristopherGuzmanVelarde">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CristopherGuzmanVelarde&repo=wasi&theme=tokyonight&hide_border=true" />
-
-</a>
-
-</div>
+## 🌟 Proyectos destacados
 
 ### 🎮 Game Progress Tracker
+Aplicación web responsive para el seguimiento y registro del progreso diario, con una interfaz optimizada para dispositivos móviles.
 
-Aplicación web responsive orientada al seguimiento y registro de progreso diario.
+- Registro de información diaria e historial de registros
+- Seguimiento de progreso
+- Persistencia de datos
+- Diseño orientado a una experiencia de usuario sencilla
 
-**Características principales:**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
 
-* Registro de información diaria.
-* Persistencia de datos.
-* Historial de registros.
-* Seguimiento de progreso.
-* Interfaz optimizada para dispositivos móviles.
-* Diseño orientado a una experiencia de usuario sencilla.
-
-**Tecnologías:** Angular · TypeScript · HTML · CSS · REST API
+<!-- TODO: agrega aquí el enlace al repo, por ejemplo: [Ver repositorio →](https://github.com/CristopherGuzmanVelarde/NOMBRE-DEL-REPO) -->
 
 ---
 
 ### 🎓 Grade Management System
+Sistema para la gestión de información académica y procesos relacionados con calificaciones, con integración completa entre frontend y backend.
 
-Sistema orientado a la gestión de información académica y procesos relacionados con calificaciones.
+- Gestión de información académica
+- APIs REST con arquitectura por capas
+- Persistencia de datos en MySQL
+- Containerización con Docker
 
-**Características:**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-* Gestión de información académica.
-* Integración frontend/backend.
-* APIs REST.
-* Persistencia de datos.
-* Arquitectura organizada por capas.
-* Containerización mediante Docker.
-
-**Tecnologías:** Angular · Java · Spring Boot · MySQL · Docker
+<!-- TODO: agrega aquí el enlace al repo, por ejemplo: [Ver repositorio →](https://github.com/CristopherGuzmanVelarde/NOMBRE-DEL-REPO) -->
 
 ---
 
-# 📊 GitHub Analytics
+### 🌐 Landing Page CNI
+Página de presentación (landing page) construida con tecnologías web base, con estilos propios y comportamiento en JavaScript.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[Ver repositorio →](https://github.com/CristopherGuzmanVelarde/LandingPageCNI)
+
+<!--
+  Otros repositorios públicos que puedes añadir cuando tengas descripción:
+  - G04_OpenMemory  → https://github.com/CristopherGuzmanVelarde/G04_OpenMemory
+  - FormPedido      → https://github.com/CristopherGuzmanVelarde/FormPedido
+  - T13_CNI         → https://github.com/CristopherGuzmanVelarde/T13_CNI
+  - firstdb         → https://github.com/CristopherGuzmanVelarde/firstdb
+-->
+
+---
+
+## 🏗️ Áreas de especialización
+
+| Área | Enfoque |
+|---|---|
+| **Frontend** | Angular, TypeScript, diseño responsive |
+| **Backend** | Java, Spring Boot, APIs REST |
+| **Arquitectura** | MVC, DAO, arquitectura por capas |
+| **Datos** | MySQL, Oracle, SQL |
+| **Cloud & DevOps** | Docker, AWS, Git / GitHub / GitLab |
+| **UI / UX** | Figma, diseño centrado en el usuario |
+
+---
+
+## 🧠 Aprendiendo actualmente
+
+`Arquitectura de software` · `Angular avanzado` · `Spring Boot` · `Microservicios` · `Docker & DevOps` · `Cloud Computing` · `Clean Code`
+
+---
+
+## 🎯 Objetivo profesional
+
+Seguir creciendo como profesional de software en proyectos reales donde pueda crear soluciones de valor para los usuarios, aplicar buenas prácticas de arquitectura y trabajar con equipos multidisciplinarios en el ecosistema **Frontend, Backend y Cloud**.
+
+---
+
+## 📊 GitHub en números
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CristopherGuzmanVelarde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CristopherGuzmanVelarde&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristopherGuzmanVelarde&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CristopherGuzmanVelarde&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-# 🧠 Actualmente aprendiendo
-
-```text
-▸ Arquitectura de software
-▸ Desarrollo de aplicaciones escalables
-▸ Angular avanzado
-▸ Spring Boot
-▸ Microservicios
-▸ APIs REST
-▸ Docker & DevOps
-▸ Cloud Computing
-▸ Buenas prácticas y Clean Code
-```
-
----
-
-# 🎯 Objetivos profesionales
-
-Mi objetivo es continuar desarrollándome como profesional de software, participando en proyectos donde pueda:
-
-* Crear soluciones que generen valor para los usuarios.
-* Mejorar continuamente mis habilidades técnicas.
-* Trabajar con equipos multidisciplinarios.
-* Participar en proyectos reales de desarrollo de software.
-* Aplicar buenas prácticas de arquitectura y desarrollo.
-* Contribuir a proyectos open source.
-* Seguir creciendo en el ecosistema **Frontend, Backend y Cloud**.
-
----
-
-# 🤝 Soft Skills
-
-<div align="center">
-
-|       💬 Comunicación       | 🤝 Trabajo en equipo |  🧠 Pensamiento crítico |
-| :-------------------------: | :------------------: | :---------------------: |
-| 🎯 Orientación a resultados |   🔄 Adaptabilidad   | 📚 Aprendizaje continuo |
-|  💡 Resolución de problemas |    ⏱️ Organización   |     🚀 Proactividad     |
+<img src="https://github-readme-stats.vercel.app/api?username=CristopherGuzmanVelarde&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristopherGuzmanVelarde&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165" />
 
 </div>
 
 ---
 
-# 📫 Conectemos
+## 📬 Contacto
+
+¿Tienes una oportunidad o un proyecto en mente? Escríbeme:
+
+- 💼 **LinkedIn:** [Cristopher Guzmán Velarde](https://www.linkedin.com/in/cristopher-guzmán-velarde-3212971a6/)
+- 📧 **Email:** [cristopher.guzman@vallegrande.edu.pe](mailto:cristopher.guzman@vallegrande.edu.pe)
+- 🐙 **GitHub:** [@CristopherGuzmanVelarde](https://github.com/CristopherGuzmanVelarde)
 
 <div align="center">
 
-### ¿Tienes un proyecto o una oportunidad profesional?
-
-Estoy interesado en conectar con profesionales, equipos de desarrollo y organizaciones que trabajen en proyectos tecnológicos.
-
-<br>
-
-<a href="mailto:cristopher.guzman@vallegrande.edu.pe">
-<img src="https://img.shields.io/badge/Email-Contactarme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/cristopher-guzmán-velarde-3212971a6/">
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/CristopherGuzmanVelarde">
-<img src="https://img.shields.io/badge/GitHub-Ver%20proyectos-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Code. Learn. Build. Improve.
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-
-<br><br>
-
-⭐️ **Gracias por visitar mi perfil**
+<sub>Gracias por visitar mi perfil ⭐</sub>
 
 </div>
