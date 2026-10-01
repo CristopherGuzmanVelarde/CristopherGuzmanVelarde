@@ -262,16 +262,6 @@ https://github.com/CristopherGuzmanVelarde/T13_CNI
 
 ---
 
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CristopherGuzmanVelarde&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph">
-
-</div>
-
----
-
 # 🎯 Objetivo profesional
 
 Continuar desarrollándome como **Software Developer**, participando en proyectos reales donde pueda aplicar y ampliar mis conocimientos en desarrollo frontend, backend, bases de datos y tecnologías cloud.
